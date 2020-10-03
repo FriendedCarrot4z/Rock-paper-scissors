@@ -59,9 +59,6 @@ while restart == True: #allows for play again
             print("player wins ", PlayW)
    
     play = input("Play again? y/n ") #asks to play again
-   
-    print("computer wins ", CompW) #keeps track of the wins and losses of player and computer
-    print("player wins ", PlayW)
     
     if play == 'y':
         restart = True

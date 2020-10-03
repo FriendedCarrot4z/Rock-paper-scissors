@@ -9,7 +9,7 @@ keeps track of score as the game goes on
 
 # Exicution
 *to exicute the program `Python program 3 RPS.py`
- ![Program screen shot]()
+ ![Program screen shot](rock.png)
 
 # Usfull websites
 ![Python help guide](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
