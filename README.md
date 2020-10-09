@@ -12,4 +12,4 @@ keeps track of score as the game goes on
  ![Program screen shot](rock.png)
 
 # Usfull websites
-![Python help guide](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
+[Python help guide](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)

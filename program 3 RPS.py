@@ -4,8 +4,6 @@ program 3/3, rock paper scissors
 from random import randint
 text = ["Rock", "Paper", "Scissors", "rock", "paper", "scissors"]
 computer = text[randint(0,2)] #Creates a random number that the computer uses to choose its play
-
-player = False
 PlayerN = input("Please enter your name: ")
 computerN = input("Please enter the name of your opponite: ")
 
@@ -64,3 +62,4 @@ while restart == True: #allows for play again
         restart = True
     else:
         restart = False
+        print("Final score is player with", PlayW, "wins vs computer with", CompW, "wins")
